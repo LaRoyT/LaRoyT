@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/LaRoy
 [instagram]: https://www.instagram.com/LaRoy
-[linkedin]: https://linkedin.com/in/LaRoy
+[linkedin]: https://linkedin.com/in/LaRoyThompson
