@@ -16,6 +16,4 @@
 [<img align="left" alt="LaRoy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LaRoy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Roy_skee
-[instagram]: https://www.instagram.com/I_Go_By_L
-[linkedin]: https://linkedin.com/in/LaRoy-Thompson
+[linkedin]: [https://linkedin.com/in/LaRoy-Thompson]
