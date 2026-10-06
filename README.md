@@ -1,4 +1,4 @@
-<h1>Hi, I'm LaRoy, an <a href="https://linkedin.com/in/LaRoy-Thompson">IT Professional</a>!</h1>
+<h1>Hi, I'm LaRoy, an <a href="https://linkedin.com/in/LaRoyThompson">IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
