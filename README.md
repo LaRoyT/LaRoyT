@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/LaRoyT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [On-Premises Configuration of Active Directory (AD) Within Azure](https://github.com/LaRoyT/configure-ad)
+  - [Group Policy and Managing Accounts Wtih Active Directory](https://github.com/LaRoyT/GPAdManAccts)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LaRoyT/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
